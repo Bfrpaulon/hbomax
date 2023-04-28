@@ -4,6 +4,10 @@ This is an HBO Max homepage clone project, developed during DIO CSS Developer tr
 
 
 # Demonstration
+![FireShot Capture 001 - HBO Max - project-css-dio-clone-hbo-max-with-new-look vercel app](https://user-images.githubusercontent.com/122818137/235263465-42972143-143b-4352-a380-ec56d9b454b7.png)
+![mobile](https://user-images.githubusercontent.com/122818137/235263474-9117b198-3074-43c7-a4f6-6c6820f38a78.png)
+
+
 ## Technologies Used
 
 - HTML5
