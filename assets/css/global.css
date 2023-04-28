@@ -2,32 +2,27 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;700&display=swap");
 
 :root {
-  --primary-color: #020228;
-  --secondary-color: #ff00e5;
-  --tertiary-color: #b535f6;
+  --primary-color: #37474F;
+  --secondary-color: #FFC107;
+  --tertiary-color: #2196F3;
   --btn-bg-color-gradient: linear-gradient(
-    45deg,
-    #9b34ef 0%,
-    #490cb0 20%,
-    transparent 50%
+  45deg,
+  #FF9800 0%,
+  #FF5722 20%,
+  transparent 50%
   );
-  --btn-link-bg-color: #fff;
-  --btn-link-color: #000;
-  --card-bg-color: linear-gradient(0deg, transparent, #3b1e63);
-  --divider-bg-color: linear-gradient(
-    90deg,
-    #5516ba,
-    rgba(255, 0, 229, 0.5) 80%
-  );
-  --nav-bg-color: rgba(0, 0, 0, 0.3);
-  --text-color: #fff;
-  --link-color: #9e86ff;
-  --form-bg-color: rgba(211, 211, 211, 0.06);
-  --form-field-bg-color: rgba(0, 0, 0, 0.2);
-  --form-field-border: 1px solid rgba(255, 255, 255, 0.7);
-  --form-field-placeholder: rgba(255, 255, 255, 0.7);
-  --form-field-error: rgb(255, 76, 76);
-
+  --btn-link-bg-color: #E0E0E0;
+  --btn-link-color: #212121;
+  --card-bg-color: #FFFFFF;
+  --divider-bg-color: #BDBDBD;
+  --nav-bg-color: #212121;
+  --text-color: #424242;
+  --link-color: #03A9F4;
+  --form-bg-color: #F5F5F5;
+  --form-field-bg-color: #EEEEEE;
+  --form-field-border: 1px solid #BDBDBD;
+  --form-field-placeholder: #BDBDBD;
+  --form-field-error: #F44336;
   scroll-behavior: smooth;
 }
 
